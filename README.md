@@ -13,7 +13,6 @@ Si scriva un programma C che:
 
       --Esempio--
 
-
       Sia il contenuto del file di ingresso il seguente:
       3 4
       1 2 3 4
@@ -24,11 +23,8 @@ Si scriva un programma C che:
       Il file di uscita scritto dal programma deve dunque avere il contenuto seguente:
 
       3 4
-
       4.3 4.4 5.4 6.0
-
       5.6 6.0 7.0 7.4
-
       7.0 7.6 8.6 8.7
 
       in cui il primo valore è ottenuto con il calcolo (2+5+6)/3, il secondo come (1+3+5+6+7)/5, etc.
