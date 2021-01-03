@@ -9,7 +9,10 @@ Si scriva un programma C che:
 - scriva la matrice così ottenuta su un file di uscita, con lo stesso formato del file di ingresso.
 
 
---Esempio--
+
+
+                                    --Esempio--
+
 
 Sia il contenuto del file di ingresso il seguente:
 3 4
