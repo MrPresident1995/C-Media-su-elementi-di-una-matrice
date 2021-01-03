@@ -10,6 +10,7 @@ Si scriva un programma C che:
 
 
 --Esempio--
+
 Sia il contenuto del file di ingresso il seguente:
 3 4
 1 2 3 4
